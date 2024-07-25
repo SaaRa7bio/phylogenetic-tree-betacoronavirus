@@ -3,7 +3,7 @@
 ### Team Members
 - Sara S. Ali
 - Anya Mohanad
-- Rand Ali
+- Rand Saad
 
 ### Affiliation
 Biologists of Baghdad (BOB) Science Club Summer Program 2024
